@@ -1,0 +1,27 @@
+serial:
+    port: /dev/ttyUSB0
+    speed: 38400
+root:
+    url: http://admin:gandalf84@192.168.1.1/
+    user: admin
+    pass: gandalf84
+    tel:
+        - +330686426885
+
+protocol: rt880 #kiss or rt880
+
+
+rcvcallsign:
+    callsign:
+        - 14FCFG
+        - 14FCF1
+
+transmitto:
+    tsms: true
+    thas: true
+has:
+    urlha: http://192.168.1.199:8123
+    entityid: device_tracker.
+    hatoken: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJiODg3YjE5ZmUzZjA0YTk2YWEwYmFjYTAzZTRmNTRiNCIsImlhdCI6MTc2OTM0OTQ3MywiZXhwIjoyMDg0NzA5NDczfQ.cYCwojgU0cUfMpTfmwb1RrCjhXgJg-g6plZEbjYokSg
+
+
