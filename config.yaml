@@ -6,7 +6,7 @@ root:
     user: admin
     pass: gandalf84
     tel:
-        - +330686426885
+        - +330686426880
 
 protocol: rt880 #kiss or rt880
 
